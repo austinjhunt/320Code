@@ -1,0 +1,3 @@
+/Users/austinhunt/CLionProjects/CPPWorksheet1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/austinhunt/CLionProjects/CPPWorksheet1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/austinhunt/CLionProjects/CPPWorksheet1/cmake-build-debug/CMakeFiles/CPPWorksheet1.dir
