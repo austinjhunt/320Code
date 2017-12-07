@@ -386,15 +386,15 @@ int main() {
     SinglyLinkedList *mySLL = new SinglyLinkedList();
 
     std::cout<<"Singly linked list time"<<std::endl;
-    char *myString = "hello";
-    char *myString2 = "how are you";
-    char *myString3 = "Singly Linked Lists are cool";
+    char *myString  = "hello";
+    char*myString2 = "how are you";
+    char*myString3 = "Singly Linked Lists are cool";
     mySLL->addNode(myString);
     mySLL->prependNode(myString2);
     mySLL->insertNode(1, myString3);
-    char *modifiedString = "I like pizza";
-    char *myString4 = "another new string";
-    char *myString5 = "running out of things to say";
+    char*modifiedString = "I like pizza";
+    char*myString4 = "another new string";
+    char*myString5 = "running out of things to say";
     mySLL->modifyNode(1, modifiedString);
     mySLL->addNode(myString4);
     mySLL->insertNode(2, myString5);
